@@ -59,5 +59,8 @@ The following libraries are needed to make use of the code
 The model performs well with an accuracy of 94%. The web page displays an input bar for the user to type in a message for classification. The web page also displays the distribution of message genres and a distribution of message categories used to train the model.
 There are some categories with few examples and as such their Recall and F1-score are ill defined and set to zero(0). It is possible that some of these samples do not make the test split and as such are not predicted.  
 
+- Screenshot of Web app
+   <img width="1440" alt="Screen Shot 2021-11-02 at 11 20 15 AM" src="https://user-images.githubusercontent.com/87318106/139829146-97825e22-6650-48d1-9285-753649afe0c8.png">
+
 ### Licensing and Acknowledgements
 All files in this repository are free to use.  
