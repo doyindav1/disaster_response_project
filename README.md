@@ -8,7 +8,7 @@
 5. Licensing and Acknowledgements
 
 ### Project Motivation:
-Disasters are terrible occurrences and we try to prevent and reduce their impacts where possible. This project makes use of data science and machine learning to classify messages sent during a disaster in order to allow first responders properly access the situation and send in appropriate teams where necessary.
+Disasters are terrible occurrences and we try to prevent and reduce their impacts where possible. This project makes use of data science and machine learning to classify messages sent during a disaster in order to allow first responders access the situation properly and send in appropriate teams where necessary.
 
 ### File Descriptions:
 The project contains the following folders:
